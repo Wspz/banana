@@ -1,6 +1,0 @@
-print('username')
-print('feature-1')
-print('feature-1')
-print('merge')
-print('change1')
-print('change')
